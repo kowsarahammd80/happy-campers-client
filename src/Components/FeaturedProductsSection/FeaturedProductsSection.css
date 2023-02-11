@@ -1,0 +1,15 @@
+.add-To-Card{
+  background-color: white;
+  padding: 10px 28px;
+  border-radius: 50px;
+  border: #ABC480 solid 1px;
+}
+
+.add-To-Card:hover{
+   background-color: #ABC480;
+   color: white;
+}
+
+.price{
+  color: #ABC480;
+}

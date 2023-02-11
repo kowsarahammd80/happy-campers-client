@@ -1,0 +1,36 @@
+[
+
+  {
+    "id": 0,
+    "productImd": "https://i.ibb.co/xqj4bBz/Rectangle-1.png",
+    "productName": "Buckwheat Molasses",
+    "price": 7.99,
+    "details1": "Weight 17.4 oz",
+    "details2": "Good Seedy Buckwheat Molasses"
+  },
+  {
+    "id": 1,
+    "productImd": "https://i.ibb.co/xLqrBMv/Rectangle-1-1.png",
+    "productName": "Classy Slice",
+    "price": 7.99,
+    "details1": "Weight 16.2 oz",
+    "details2": "Classy Slice"
+  },
+  {
+    "id": 2,
+    "productImd": "https://i.ibb.co/DGMxCJf/Rectangle-1-2.png",
+    "productName": "Wild Buns",
+    "price": 7.99,
+    "details1": "Weight 11.0 oz",
+    "details2": "Wild Buns"
+  },
+  {
+    "id": 3,
+    "productImd": "https://i.ibb.co/DGMxCJf/Rectangle-1-2.png",
+    "productName": "Hemp Hemp Hooray",
+    "price": 7.99,
+    "details1": "Weight 17.0 oz",
+    "details2": "Hemp Hemp Hooray"
+  }
+
+]
